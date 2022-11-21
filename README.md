@@ -1,2 +1,2 @@
 # testrepo
-just learning
+just learnings
